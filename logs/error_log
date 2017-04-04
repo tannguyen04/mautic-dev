@@ -1,0 +1,4 @@
+[Tue Apr 04 15:21:01.685476 2017] [:error] [pid 13034] [client ::1:59503] RuntimeException: Unable to create the cache directory (/Users/tan/Sites/mautic-dev/app/cache/prod)\n - in file /Users/tan/Sites/mautic-dev/app/AppKernel.php - at line 530
+[Tue Apr 04 15:21:04.556841 2017] [:error] [pid 13034] [client ::1:59510] RuntimeException: Unable to create the cache directory (/Users/tan/Sites/mautic-dev/app/cache/prod)\n - in file /Users/tan/Sites/mautic-dev/app/AppKernel.php - at line 530
+[Tue Apr 04 15:21:22.586858 2017] [:error] [pid 13037] [client ::1:59511] RuntimeException: Unable to write in the logs directory (/Users/tan/Sites/mautic-dev/app/logs)\n - in file /Users/tan/Sites/mautic-dev/app/AppKernel.php - at line 533
+[Tue Apr 04 15:22:35.679585 2017] [:error] [pid 13035] [client ::1:59520] RuntimeException: Unable to write in the logs directory (/Users/tan/Sites/mautic-dev/app/logs)\n - in file /Users/tan/Sites/mautic-dev/app/AppKernel.php - at line 533
